@@ -78,6 +78,27 @@ top: 30%;
 	text-decoration:none;
 	
 }
+ .button-secondary-s {
+   color: black;
+   border-radius: 4px;
+	padding: 10px;
+ 
+	width: 100%;
+	background-color:darkcyan;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;			
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	
+}
+ .new {
+	 align-items:center;
+ }
 .button-secondary:hover {
 background-color:#6c7c7c;
 }
